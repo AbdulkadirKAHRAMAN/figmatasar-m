@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 924px;
+    border-radius: 12px;
+    background-image: url('/assets/img/banner.png');
+    background-repeat: no-repeat;
+    background-position: 579px 43px;
+    background-color:  #E6F0FF;
+
+}
+
+.description {
+    padding-top: 68px;
+    padding-left: 64px;
+    padding-bottom: 92px;
+
+}
+.description h3 {
+   
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+
+}
+
+
+.description h1 {
+  
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: left;
+    margin-bottom: 24px;
+
+}
+
+
+.description a {
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 32px;
+    text-align: center;
+    text-decoration: none;
+    color:  #FFFFFF;
+    padding:  16px 40px;
+    background-color:  #0D6EFD;
+    border-radius: 32px;
+    
+    
+    
+
+}

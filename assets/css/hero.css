@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1440px;
+    background-image: url(/assets/img/Ovalhero.png);
+    background-size: 30%;
+    background-repeat: no-repeat; 
+    background-position: 705px 80px;
+    
+}
+
+.background1{
+    background-image: url(/assets/img/herosiyah2.png);
+    background-repeat: no-repeat; 
+    background-position: 640px 139.33px;
+    background-size: 30%;
+    border-radius: 20px;
+
+
+}
+.background2 {
+    background-image: url(/assets/img/herobeyaz2.png);
+    border-radius: 20px;
+    background-repeat: no-repeat;
+    background-position: 788px 182px;
+    background-size: 25%;
+}
+
+.description {
+    padding-top: 80px;
+    padding-left: 165px;
+    padding-bottom: 80px;
+}
+
+.description h1 {
+    font-family: Montserrat;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 70px;
+    text-align: left;
+    text-decoration-skip-ink: none;
+    padding-bottom: 12px;
+
+}
+
+.description h4 {
+
+    font-family: Open Sans;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+    text-decoration-skip-ink: none;
+    padding-bottom: 24px;
+
+}
+.description p {
+    padding-bottom: 32px;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -0.4000000059604645px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+.cizili-sayi{
+    font-family: Montserrat;
+    color:  rgba(196, 196, 196, 1);
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 34px;
+    text-align: left;
+    text-decoration-line: line-through;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.description a {
+    color:  rgba(255, 255, 255, 1);
+    background-color: rgba(13, 110, 253, 1);
+    width: Hug (281px)px;
+    height: Hug (64px)px;
+    padding: 16px 40px 16px 40px;
+    gap: 16px;
+    border-radius: 3px;
+    text-decoration: none;
+    
+    
+}

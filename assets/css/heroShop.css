@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1440px;
+    background-image: url(/assets/img/Sharp.png);
+    background-repeat: no-repeat; 
+
+}
+
+.description {
+    padding-top: 354px;
+    padding-bottom: 387px;
+}
+.description h1 {
+    color: rgba(255, 255, 255, 1);
+    font-family: Montserrat;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 81px;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.description h3 {
+    color: rgba(255, 255, 255, 1);
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 37px;
+    text-align: center;
+    margin-bottom: 40px;
+    
+    
+}
+.description a {
+    color: #FFFFFF;
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 32px;
+    text-align: center;
+    text-decoration: none;
+    padding: 16px 72px;
+    background-color: rgba(9, 75, 172, 1);
+    border-radius: 32px;
+    margin-top: 589px;
+    margin-left: 573px
+    
+}

@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.background {
+    width: 1440px;
+    left: 1070px;
+    background: linear-gradient(225deg, #A54343 0%, #E73535 100%);
+}
+
+.container { 
+    width: 1440px;
+    left: 1070px;
+    background-image: url('/assets/img/arkaplanburger.png');
+    background-repeat: no-repeat;
+    background-position: 537px 133px;
+}
+
+.description {
+    padding: 165px 223px;
+}
+
+.description h1 {
+    color:  #FFFFFF;
+    font-family: Montserrat;
+    font-size: 140px;
+    font-weight: 700;
+    line-height: 127px;
+    text-align: left;
+    
+    
+
+
+}
+
+.description h5 {
+    color:  #FFFFFF;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 34px;
+    text-align: left;
+    padding-top: 35px;
+    margin-bottom: 35px;
+
+
+
+}
+
+.description a {
+    width: 294px;
+    height: 98px;
+    color:  #FFFFFF;
+    text-decoration: none;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: center;
+    border: 1px solid #FFFFFF;
+    border-radius: 100px 
+    
+
+
+}
+.button {
+    display: inline-flex; /* Resim ve yazıyı yan yana hizalamak için */
+    align-items: center;  /* Dikey ortalama */
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .button-icon {
+    width: 98px;  /* İkonun genişliği */
+    height: 98px; /* İkonun yüksekliği */
+    margin-right: 24px; /* Resim ile yazı arasındaki boşluk */
+  }
+
+  .img {
+    width: 54px;
+    height: 28px;
+    padding-top: 32px;
+    gap: 0px;
+    opacity: 0px;
+
+  }
+  
+
+  
